@@ -1,4 +1,4 @@
-## How to run the code
+## How to run the code locally
 
 For the first run, please install all the packages first:
 
