@@ -6,6 +6,12 @@ For the first run, please install all the packages first:
 npm install
 ```
 
+Then, make sure the local API is up and running:
+
+```bash
+npm run api-server
+```
+
 Then to run the development server:
 
 ```bash
